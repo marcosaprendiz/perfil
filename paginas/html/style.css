@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Castoro+Titling&display=swap');
+
+body{background-image: radial-gradient(#393939,#4D594D,#0D0D0D)}
+
+div{color: rgb(254, 254, 254);text-shadow: 1px 2px 3px black;;}
+h1{color: rgb(0, 0, 0);text-shadow: 1px 1px 5px rgba(24, 168, 29, 0.537);font-family:  'Bruno Ace SC', cursive;;}
+
+h2{font-size: 16px;color: rgb(0, 0, 0);font-family:  'Castoro Titling', cursive;}
+
+p{font-size: 20px;color: #000000; text-shadow: 1px 1px 1px rgba(38, 170, 71, 0.352);}
+
+h1{text-decoration: underline;}
+
+main{background-color: rgba(255, 255, 255, 0.39);
+    text-align:justify;
+     width: 600px;
+    margin: auto;
+padding: 20px;
+border-radius: 15px;}
